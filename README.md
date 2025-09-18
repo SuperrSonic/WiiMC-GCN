@@ -16,14 +16,6 @@ It has some different features compared to WiiMC:
 * Only the gray theme, but it can be compiled with other themes.
 * Only English and Spanish supported.
 
-To make playback a nicer experience with the GC controller, it is possible to do more with it now.
-
-After playing a file, hold the X button and use left/right to seek, L to seek to the beginning or R to end playback, up/down will both toggle pause.
-
-You can press Z to view the credits screen, it will also display the available memory.
-
-The banner screen saver can be a bit confusing to use, you need the artwork viewer enabled, as well as 'Screensaver Art' enabled, and you must also be on the video tab, this is the only purpose of the video tab now.
-
 
 In the original WiiMC, multiple devices could be mounted at the same time, here it will only mount the first device it finds in the following order:
 
@@ -32,13 +24,28 @@ In the original WiiMC, multiple devices could be mounted at the same time, here 
 * CARD Slot B
 * CARD Slot A
 
-It uses /apps/WiiMC/ to store settings.xml (in hindsight, a bad idea) it can collide with the original WiiMC so watch out for that.
+It uses /apps/wiimc/ to store settings.xml (in hindsight, a bad idea) it can collide with the original WiiMC so watch out for that.
 
 Check out the video where I explain what lead me to work on this project.
 
 # Video
 
 [![Video backstory](https://img.youtube.com/vi/-EpUi2d2_VI/maxresdefault.jpg)](https://youtu.be/-EpUi2d2_VI)
+
+# Controls
+
+To make playback a nicer experience with the GC controller, it is possible to do more with it now.
+
+After playing a file, hold the X button and use left/right to seek, L to seek to the beginning or R to end playback, up/down will both toggle pause.
+
+You can press Z to view the credits screen, it will also display the available memory.
+
+
+# Screensaver
+
+The banner screen saver can be a bit confusing to use, you need the artwork viewer enabled, as well as 'Screensaver Art' enabled, and you must also be on the video tab, this is the only purpose of the video tab now.
+
+Turning off the art viewer will revert to the original screensaver, the WiiMC logo will display randomly on screen.
 
 # Known Issues
 
