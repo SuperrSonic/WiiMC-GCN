@@ -51,6 +51,8 @@ Turning off the art viewer will revert to the original screensaver, the WiiMC lo
 
 When compiling, you have to edit mplayer/Makefile to change the elf2dol path, I manually wrote the path and forgot to revert it.
 
+Also, if compiling becomes troublesome for any reason, [these are the portlibs I used](https://github.com/SuperrSonic/mplayer-ce-libogc2/blob/master/portlibs_gcn.7z) -- same ones as MPlayer, in the case of it, some freetype versions are incompatible.
+
 Turning off the art viewer will not disable cover art reading (you just won't see it) this will be done eventually as it could make some files with huge artwork data unplayable. However, if you are on the video tab it won't read artwork since that memory is reserved for the banner screen saver.
 
 While memory should be more than enough, mixing codecs can sometimes use up too much memory and crash, but I have tested a large folder with music for hours with no problems.
