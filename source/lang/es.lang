@@ -1,0 +1,320 @@
+msgid "********"
+msgstr "••••••••"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Please Wait"
+msgstr "Por favor, espere"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Retry"
+msgstr "Reintentar"
+
+msgid "Return"
+msgstr "Regresar"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Play"
+msgstr "Reproducir"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Single Play"
+msgstr "Individual"
+
+msgid "Continuous Play"
+msgstr "Continuo"
+
+msgid "Shuffle"
+msgstr "Aleatorio"
+
+msgid "Loop"
+msgstr "Repetitivo"
+
+msgid "Continuous"
+msgstr "Continuo"
+
+msgid "Through"
+msgstr "Directo"
+
+msgid "Screensaver Art"
+msgstr "Carátulas en el salvapantallas"
+
+msgid "Internal Loops"
+msgstr "Loop interno"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Side"
+msgstr "Al lado"
+
+msgid "Full"
+msgstr "Completo"
+
+msgid "Playlist"
+msgstr "Lista de reprodución"
+
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Global"
+msgstr "Generales"
+
+msgid "Settings"
+msgstr "Opciones"
+
+msgid "On"
+msgstr "Sí"
+
+msgid "Off"
+msgstr "No"
+
+msgid "Always"
+msgstr "Habilitado"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Skip Backward"
+msgstr "Retroceder"
+
+msgid "Pause"
+msgstr "Pausa"
+
+msgid "Skip Forward"
+msgstr "Avanzar"
+
+msgid "Single"
+msgstr "Individual"
+
+msgid "Now Playing"
+msgstr "Reproduciendo"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Go back"
+msgstr "Atras"
+
+msgid "Settings - Global"
+msgstr "Opciones - Generales"
+
+msgid "Settings - Playback"
+msgstr "Opciones - Playback"
+
+msgid "Settings - Music"
+msgstr "Opciones - Música"
+
+msgid "File Extensions"
+msgstr "Extensiones de archivo"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Volume"
+msgstr "Volumen"
+
+msgid "Exit Action"
+msgstr "Acción al salir"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Show"
+msgstr "Mostrar"
+
+msgid "Cache Fill"
+msgstr "Memoria inicial"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Deflicker"
+msgstr "Defliqueador"
+
+msgid "Play Order"
+msgstr "Modo de reproducción"
+
+msgid "Music Folder"
+msgstr "Carpeta de audio"
+
+msgid "Folder"
+msgstr "Carpeta"
+
+msgid "Error loading file!"
+msgstr "¡Error cargando archivo!"
+
+msgid "Unable to Initialize MPlayer"
+msgstr "Imposible iniciar MPlayer"
+
+msgid "Unable to find a valid working path"
+msgstr "Imposible encontrar una ruta válida"
+
+msgid "Unable to change path to"
+msgstr "Imposible de cambiar ruta a"
+
+msgid "Out of memory: too many files!"
+msgstr "¡Memoria sobrepasada: demasiados archivos!"
+
+msgid "Directory name is too long!"
+msgstr "¡Nombre de carpeta demasiado largo!"
+
+msgid "SD Card"
+msgstr "Tarjeta SD"
+
+msgid "SD card not found!"
+msgstr "¡Tarjeta SD no encontrada!"
+
+msgid "Error opening"
+msgstr "Error abriendo"
+
+msgid "Warning"
+msgstr "Atención"
+
+msgid "Error loading playlist!"
+msgstr "¡Error cargando lista de reproducción!"
+
+msgid "Playlist does not contain any supported entries!"
+msgstr "¡Lista de reprodución sin nada compatible!"
+
+msgid "No Results Found"
+msgstr "Nada encontrado"
+
+msgid "Your search did not match any media files."
+msgstr "Ningún archivo multimedia encontrado."
+
+msgid "Error opening file!"
+msgstr "¡Error abriendo archivo!"
+
+msgid "Saving..."
+msgstr "Guardándo..."
+
+msgid "Error creating file!"
+msgstr "¡Error creando archivo!"
+
+msgid "Error saving file!"
+msgstr "¡Error guardando archivo!"
+
+msgid "Playlist is Empty"
+msgstr "Lista de reproducción vacia"
+
+msgid "Hover over items and push the + button to add them to your playlist."
+msgstr "Seleccione elemento y pulse el botón + para agregarlo a la lista de reproducción."
+
+msgid "Exit Playlist"
+msgstr "Salir de la lista"
+
+msgid "Check settings file."
+msgstr "Compruebe archivo de opciones."
+
+msgid "Could not find a valid SD - one is required for normal operation."
+msgstr "SD no encontrado - necesario para continuar."
+
+msgid "Could not create folder"
+msgstr "Imposible crear carpeta"
+
+msgid "Saving settings..."
+msgstr "Opciones guardadas..."
+
+msgid "Could not save settings to"
+msgstr "Imposible guardar opciones"
+
+msgid "Thanks to"
+msgstr "Gracias a"
+
+msgid "Menu artwork"
+msgstr "Iconos del menú"
+
+msgid "Programming"
+msgstr "Programación"
+
+msgid "& menu design"
+msgstr "& diseño del menú"
+
+msgid "Buffering..."
+msgstr "Cargando..."
+
+msgid "Default"
+msgstr "Por defecto"
+
+msgid "Could not change language. Not enough memory!"
+msgstr "¡Imposible cambiar idioma. Memoria insuficiente!"
+
+msgid "Out of Memory"
+msgstr "Fuera de memoria"
+
+msgid "This directory contains more entries than the maximum allowed. Not all entries will be visible."
+msgstr "Este directorio contiene más entradas del máximo permitido. No todas serán visibles."
+
+msgid "This playlist contains more entries than the maximum allowed. Not all entries will be visible."
+msgstr "Esta lista de reproducción contiene más entradas del máximo permitido. No todas serán visibles."
+
+msgid "sec"
+msgstr "seg"
+
+msgid "min"
+msgstr "min"
+
+msgid "Adding files to playlist..."
+msgstr "Añadiendo ficheros a la lista de reproducción..."
+
+msgid "Browser Folders"
+msgstr "Buscador de Carpetas"
+
+msgid "Use Last Browsed"
+msgstr "Última Búsqueda"
+
+msgid "Static"
+msgstr "Inicial"
+
+msgid "Starting Area"
+msgstr "Área de inicio"
+
+msgid "Artwork Viewer"
+msgstr "Carátulas"
+
+msgid "Screensaver Banners"
+msgstr "Banners en el salvapantallas"
+
+msgid "Banner Folder"
+msgstr "Carpeta de banners"
+
+msgid "Night Filter"
+msgstr "Filtro nocturno"
+
+msgid "JPEG Resample"
+msgstr "Optimizar JPEG"
+
+msgid "VI Width"
+msgstr "Ancho del VI"
+
+msgid "Screensaver Delay"
+msgstr "Retraso del salvapantallas"
+
+msgid "Artwork Fade"
+msgstr "Disolvencia de carátulas"
+
+msgid "Artwork Viewer must be on to use this."
+msgstr "Carátulas debe ser activada."
+
+msgid "Banner folder must be set first."
+msgstr "Carpeta de banners debe ser válida."
