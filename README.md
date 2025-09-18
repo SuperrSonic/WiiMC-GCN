@@ -22,7 +22,7 @@ After playing a file, hold the X button and use left/right to seek, L to seek to
 
 You can press Z to view the credits screen, it will also display the available memory.
 
-The banner screen saver can be a bit confusing to use, you need the artwork viewer enabled, as well as 'cover art on the screen saver' enabled, and you must also be on the video tab, this is the only purpose of the video tab now.
+The banner screen saver can be a bit confusing to use, you need the artwork viewer enabled, as well as 'Screensaver Art' enabled, and you must also be on the video tab, this is the only purpose of the video tab now.
 
 
 In the original WiiMC, multiple devices could be mounted at the same time, here it will only mount the first device it finds in the following order:
@@ -47,6 +47,8 @@ When compiling, you have to edit mplayer/Makefile to change the elf2dol path, I 
 Turning off the art viewer will not disable cover art reading (you just won't see it) this will be done eventually as it could make some files with huge artwork data unplayable. However, if you are on the video tab it won't read artwork since that memory is reserved for the banner screen saver.
 
 While memory should be more than enough, mixing codecs can sometimes use up too much memory and crash, but I have tested a large folder with music for hours with no problems.
+
+Like on the Wii U, there is no hardware volume control, so the volume option was changed to use a filter, I suggest you avoid using it, and keep it at the default of 50% for best results.
 
 There is no BBA support and no ARAM support.
 
